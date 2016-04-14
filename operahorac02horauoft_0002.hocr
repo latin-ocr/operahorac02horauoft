@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahorac02horauoft_0002.png"; bbox 0 0 1598 3016; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1171 2728 1531 2759">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1171 2728 1531 2759">
+     <span class='ocr_line' id='line_1_1' title="bbox 1171 2728 1531 2759; baseline 0 257"><span class='ocrx_word' id='word_1_1' title='bbox 1171 2728 1531 2759; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1250 2769 1452 2839">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1250 2769 1452 2839">
+     <span class='ocr_line' id='line_1_2' title="bbox 1250 2769 1452 2798; baseline 0.025 -5"><span class='ocrx_word' id='word_1_2' title='bbox 1250 2769 1429 2797; x_wconf 80' lang='lat' dir='ltr'>HANDBOUN</span> <span class='ocrx_word' id='word_1_3' title='bbox 1431 2775 1452 2798; x_wconf 92' lang='lat' dir='ltr'>D</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1289 2812 1411 2839; baseline 0.025 -3"><span class='ocrx_word' id='word_1_4' title='bbox 1289 2812 1333 2836; x_wconf 84' lang='lat' dir='ltr'><strong>AT</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1349 2814 1411 2839; x_wconf 85' lang='lat' dir='ltr'><strong>THE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1313 2866 1383 2970">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1313 2866 1383 2970">
+     <span class='ocr_line' id='line_1_4' title="bbox 1313 2866 1383 2970; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1313 2866 1383 2970; x_wconf 43' lang='grc' dir='ltr'><strong>ἓ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1223 2985 1471 3016">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1223 2985 1471 3016">
+     <span class='ocr_line' id='line_1_5' title="bbox 1223 2985 1471 3016; baseline 0.036 -9"><span class='ocrx_word' id='word_1_7' title='bbox 1223 2985 1412 3014; x_wconf 76' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_8' title='bbox 1429 2991 1471 3016; x_wconf 76' lang='lat' dir='ltr'><strong>oF</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
